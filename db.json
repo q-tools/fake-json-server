@@ -1,0 +1,15 @@
+{
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      }
+   ],
+   "tickets":{
+      "postfix":"Tickets",
+      "data":{
+         "value":533,
+         "name":""
+      }
+   }
+}
